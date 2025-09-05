@@ -1,0 +1,21 @@
+
+---
+
+## 📖 Learning Outcomes
+- Hands-on experience with **Universal Differential Equations (UDEs)**.
+- Integration of **mechanistic models with machine learning**.
+- Practical exposure to **SciML ecosystem in Julia**.
+- Application of **optimization techniques** (gradient-based + quasi-Newton).
+
+---
+
+## 🔮 Future Work
+- Extend UDE approach to other nonlinear dynamical systems.
+- Experiment with different neural architectures (e.g., recurrent networks).
+- Apply to real-world time series such as ecological, financial, or epidemiological data.
+
+---
+
+## 👤 Author
+- **[Aditya Aryan Verma]**
+
